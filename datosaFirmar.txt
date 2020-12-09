@@ -1,0 +1,4 @@
+“Pensar en seguridad se vuelve necesario una vez que permitimos que nuestros recursos computacionales
+entren en contacto con el resto del mundo. Un puerto de comunicación abierto casi siempre está expuesto
+a ataques externos o a abusos; es necesario tomar medidas de seguridad para evitar el mal uso de los
+recursos. ”
